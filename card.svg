@@ -15,7 +15,7 @@
   <text x="175" y="25" text-anchor="middle" font-family="monospace" font-size="14" fill="#00ff41">user@olicyber:~$</text>
   
   <!-- Main Content -->
-  <text x="20" y="55" font-family="monospace" font-weight="bold" font-size="16" fill="#00ff41" filter="url(#matrixGlow)">USER PROFILE: unitythecoder</text>
+  <text x="20" y="55" font-family="monospace" font-weight="bold" font-size="16" fill="#00ff41" filter="url(#matrixGlow)">USER PROFILE: benjamin</text>
   
   <!-- Terminal-style divider -->
   <text x="20" y="70" font-family="monospace" font-size="14" fill="#00ff41">======================================</text>
@@ -23,9 +23,9 @@
   <!-- Stats in terminal style -->
   <text x="20" y="90" font-family="monospace" font-size="14" fill="#00ff41">$ cat stats.json</text>
   <text x="20" y="110" font-family="monospace" font-size="14" fill="#00ff41">{</text>
-  <text x="30" y="130" font-family="monospace" font-size="14" fill="#00ff41"> "score": "116605",</text>
-  <text x="30" y="150" font-family="monospace" font-size="14" fill="#00ff41"> "solved_challenges": "241",</text>
-  <text x="30" y="170" font-family="monospace" font-size="14" fill="#00ff41"> "rank": "66°",</text>
+  <text x="30" y="130" font-family="monospace" font-size="14" fill="#00ff41"> "score": "195701",</text>
+  <text x="30" y="150" font-family="monospace" font-size="14" fill="#00ff41"> "solved_challenges": "420",</text>
+  <text x="30" y="170" font-family="monospace" font-size="14" fill="#00ff41"> "rank": "20°",</text>
   <text x="30" y="190" font-family="monospace" font-size="14" fill="#00ff41"> "best_category": "Web"</text>
   
   <!-- Code animation (simulated) -->
